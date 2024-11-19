@@ -1,0 +1,1 @@
+ C:\\Users\\prince\ kumar\\Desktop\\Student\ Discussion\ Forum(SDF)\\Student-Discussion-Forum\\Frontend\\sdf\\.dart_tool\\flutter_build\\7482cfcba8e47a2b4ef2b88c29a2c8e9\\native_assets.yaml: 
